@@ -3,9 +3,9 @@
 I'm Sutharya, a third-year Integrated MSc student at CUSAT, diving into AI & Data Science. I like messing around with code, solving problems, and sometimes just zoning out staring at nothing.
 
 ## Hobbies Include
-- **Gaming**: An avid fan of the Assassin's Creed series, i enjoy playing games with storyline, as well as casual puzzles - playing minesweeper as if my lfie depends on it.
+- **Gaming**: A big fan of *Assassin's Creed* storylines, I also love casual puzzles - playing Minesweeper like it’s a high-stakes mission.
 - **Music**: Always got my headphones in; no music, no work getting done.
-- **Tinkering**: I’m hooked on cracking tough coding challenges and won’t back down. Games, though? One brutal level, and I’m out the door faster than you’d expect.
+- **Tinkering**: I’m hooked on solving tough coding challenges and won’t quit. Games, though? Hit a brutal level, and I’m out the door quick.
 
 ## A Bit About Me
 - **Fun Fact**: I’ve got a knack for picking up languages just by listening—accents, phrases, you name it. But put me in a formal class? My brain checks out. I’m all about learning the upside-down, natural way.
