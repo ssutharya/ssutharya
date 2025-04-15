@@ -1,6 +1,6 @@
 # Well, Hello There..!
 
-I'm Sutharya, a third-year Integrated MSc student at CUSAT, diving into AI & Data Science. I like messing around with code, solving quirky problems, and sometimes just zoning out staring at nothing.
+I'm Sutharya, a third-year Integrated MSc student at CUSAT, diving into AI & Data Science. I like messing around with code, solving problems, and sometimes just zoning out staring at nothing.
 
 ## Hobbies Include
 - **Gaming**: An avid fan of the Assassin's Creed series, i enjoy playing games with storyline, as well as casual puzzles - playing minesweeper as if my lfie depends on it.
