@@ -14,7 +14,7 @@ I'm Sutharya, a fourth-year Integrated MSc student at CUSAT, diving into AI & Da
 ## Let’s Connect!
 - Drop me a line at **sutharya8@gmail.com** or find me on [LinkedIn](https://linkedin.com/in/s-sutharya).
 - Check out my Kaggle experiments at [piwoobeep](https://kaggle.com/piwoobeep).
-- See my journey in detail—check out my [CV](https://drive.google.com/file/u/2/d/1oPmKBo_ZETrYlni8Hi8BKgoLvOwBUhZD/view?usp=drivesdk).
+- See my journey in detail—check out my [CV](https://drive.google.com/file/d/1oPmKBo_ZETrYlni8Hi8BKgoLvOwBUhZD/view?usp=drive_link).
 - Explore my TinkerHub Maker profile at [ssutharya](https://tinkerhub.org/@ssutharya).
 - Curious about my code? Explore my repos below!
 - 
