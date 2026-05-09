@@ -20,10 +20,6 @@ I'm Sutharya, a fifth-year Integrated MSc student at CUSAT, diving into AI & Dat
 - 
 <p align="center"> <a href="https://linkedin.com/in/s-sutharya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-sutharya" height="30" width="40" /></a> <a href="https://kaggle.com/piwoobeep" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="piwoobeep" height="30" width="40" /></a> </p>
 
-## Campus Life
-Part of the HR team at SEDS CUSAT, helping drive space-tech events.
-
-
 ## My Tech Stack
 Tools I use for deep learning, data analysis, and more:
 <p align="center">
