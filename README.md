@@ -12,13 +12,10 @@ I'm Sutharya, a fifth-year Integrated MSc student at CUSAT, diving into AI & Dat
 - **Memory Lane**: In first grade, I snagged a trophy for acing a memory test—big moment! Except I forgot the trophy in class and strolled home with just the story. My parents laughed, my brother sighed, and I still grin thinking about it.
 
 ## Let’s Connect!
-- Drop me a line at **sutharya8@gmail.com** or find me on [LinkedIn](https://linkedin.com/in/s-sutharya).
-- Check out my Kaggle experiments at [piwoobeep](https://kaggle.com/piwoobeep).
+- Drop me a line at **sutharya8@gmail.com** or find me on [LinkedIn](https://linkedin.com/in/ssutharya).
 - See my journey in detail—check out my [CV](https://drive.google.com/file/d/1oPmKBo_ZETrYlni8Hi8BKgoLvOwBUhZD/view?usp=drive_link).
 - Explore my TinkerHub Maker profile at [ssutharya](https://tinkerhub.org/@ssutharya).
 - Curious about my code? Explore my repos below!
-- 
-<p align="center"> <a href="https://linkedin.com/in/s-sutharya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-sutharya" height="30" width="40" /></a> <a href="https://kaggle.com/piwoobeep" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="piwoobeep" height="30" width="40" /></a> </p>
 
 ## My Tech Stack
 Tools I use for deep learning, data analysis, and more:
@@ -43,7 +40,7 @@ Tools I use for deep learning, data analysis, and more:
 
 
 ## Git Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssutharya&show_icons=true&locale=en&layout=compact&theme=merko" alt="ssutharya" /> <img src="https://github-readme-stats.vercel.app/api?username=ssutharya&show_icons=true&locale=en&theme=merko" alt="ssutharya" /> <img src="https://github-profile-trophy.vercel.app/?username=ssutharya&theme=gruvbox&margin-w=15&rank=SSS,SS,S,A,B,C&no-bg=true&no-frame=true&row=1&column=4" alt="ssutharya" /> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=ssutharya&theme=gruvbox&margin-w=15&rank=SSS,SS,S,A,B,C&no-bg=true&no-frame=true&row=1&column=4" alt="ssutharya" /> </p>
 
 
 Thanks for stopping by - let’s swap ideas or maybe even some music recs!
